@@ -1,3 +1,5 @@
+console.log("hello")
+
 const colour= 'red';
 if(colour=='green'){
     console.log("green colour");
